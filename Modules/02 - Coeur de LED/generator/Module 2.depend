@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1511034479 source:c:\users\hichem\documents\ecole\projet\a1-hexart-care-master\module2\generateur\generatecode.c
+	<stdio.h>
+
+1542210107 source:c:\users\hichem\documents\ecole\projet\a1-hexart-care-master\module2\generateur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menu.h"
+	"generateCode.h"
+
+1542208158 c:\users\hichem\documents\ecole\projet\a1-hexart-care-master\module2\generateur\menu.h
+
+1542207514 c:\users\hichem\documents\ecole\projet\a1-hexart-care-master\module2\generateur\generatecode.h
+
+1542207561 source:c:\users\hichem\documents\ecole\projet\a1-hexart-care-master\module2\generateur\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menu.h"
+
+1511034480 source:c:\users\borhane e. guemidi\onedrive - association cesi viacesi mail\projet\01 - un cœur qui bat au rythme de vos rêves\code\modules\02 - coeur de led\generateur\generatecode.c
+	<stdio.h>
+
+1542207562 source:c:\users\borhane e. guemidi\onedrive - association cesi viacesi mail\projet\01 - un cœur qui bat au rythme de vos rêves\code\modules\02 - coeur de led\generateur\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menu.h"
+
+1542208160 c:\users\borhane e. guemidi\onedrive - association cesi viacesi mail\projet\01 - un cœur qui bat au rythme de vos rêves\code\modules\02 - coeur de led\generateur\menu.h
+
+1542279779 source:c:\users\borhane e. guemidi\onedrive - association cesi viacesi mail\projet\01 - un cœur qui bat au rythme de vos rêves\code\modules\02 - coeur de led\generateur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menu.h"
+	"generateCode.h"
+
+1542207516 c:\users\borhane e. guemidi\onedrive - association cesi viacesi mail\projet\01 - un cœur qui bat au rythme de vos rêves\code\modules\02 - coeur de led\generateur\generatecode.h
+
+1542280265 source:c:\users\borhane e. guemidi\onedrive - association cesi viacesi mail\projet\01 - un cœur qui bat au rythme de vos rêves\code\modules\02 - coeur de led\generator\generatecode.c
+	<stdio.h>
+
+1542280341 source:c:\users\borhane e. guemidi\onedrive - association cesi viacesi mail\projet\01 - un cœur qui bat au rythme de vos rêves\code\modules\02 - coeur de led\generator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menu.h"
+	"generateCode.h"
+
+1542208160 c:\users\borhane e. guemidi\onedrive - association cesi viacesi mail\projet\01 - un cœur qui bat au rythme de vos rêves\code\modules\02 - coeur de led\generator\menu.h
+
+1542207516 c:\users\borhane e. guemidi\onedrive - association cesi viacesi mail\projet\01 - un cœur qui bat au rythme de vos rêves\code\modules\02 - coeur de led\generator\generatecode.h
+
+1542280209 source:c:\users\borhane e. guemidi\onedrive - association cesi viacesi mail\projet\01 - un cœur qui bat au rythme de vos rêves\code\modules\02 - coeur de led\generator\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menu.h"
+
